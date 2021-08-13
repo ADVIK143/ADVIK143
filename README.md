@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADVIK143
-- 👀 I’m interested in Automating taks, creating bots, AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Automating tasks, creating bots, AI
+- 🌱 I’m currently learning Python, will switch to frontend afterwards
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email- advik@criptext.com; Telegram- t.me/advik_143
 
