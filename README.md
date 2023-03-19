@@ -7,7 +7,7 @@ I'm currently learning Linux commands and CCNA afterwards.
 - More to come...
 
 ## Social | Misc.
-![reddit](https://img.shields.io/reddit/user-karma/combined/advik_143?style=social) ![Twitter](https://img.shields.io/twitter/follow/DevAdvik?style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/DevAdvik)
+![reddit](https://img.shields.io/reddit/user-karma/combined/advik_143?style=social) ![Twitter](https://img.shields.io/twitter/follow/istoleabread?style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/DevAdvik)
 
 ![bitcoin](https://img.shields.io/keybase/btc/DevAdvik) ![stellar](https://img.shields.io/keybase/xlm/DevAdvik)
 
