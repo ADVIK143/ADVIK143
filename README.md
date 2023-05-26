@@ -1,7 +1,5 @@
 ## Introduction
-Well hello there, I'm Advik, a self-taught developer (still learning tho), efficient at backend language(s).
-I'm currently learning Linux commands and CCNA afterwards.
-
+Well hello there, I'm Advik Singh Somvanshi, currently a student at Zoho.
 ## Public Contributions:
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI): [#1558](https://github.com/eternnoir/pyTelegramBotAPI/pull/1558)
 - More to come...
